@@ -1,0 +1,36 @@
+[
+    {
+        "nama": "azka",
+        "item_pemesanan": [
+            {
+                "item": "nasgor",
+                "harga": 10000
+            },
+            {
+                "item": "es teh",
+                "harga": 4000
+            }
+        ],
+        "total_harga": 14000,
+        "tanggal": "2025-01-10 21:59:30"
+    },
+    {
+        "nama": "wahyu",
+        "item_pemesanan": [
+            {
+                "item": "kopi",
+                "harga": 3000
+            },
+            {
+                "item": "nasgor",
+                "harga": 10000
+            },
+            {
+                "item": "susu",
+                "harga": 6000
+            }
+        ],
+        "total_harga": 19000,
+        "tanggal": "2025-01-11 00:33:18"
+    }
+]
